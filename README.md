@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ctcrahul/Leetcode-Submission/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
