@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ctcrahul/Leetcode-Submission/tree/master/0182-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
