@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -55,8 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3524-find-x-value-of-array-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
