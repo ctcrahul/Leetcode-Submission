@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/ctcrahul/Leetcode-Submission/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ctcrahul/Leetcode-Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/ctcrahul/Leetcode-Submission/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ctcrahul/Leetcode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
